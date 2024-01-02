@@ -10,9 +10,9 @@
 <br/>
 <br/>
 
-I'm a data engineer specialized in cloud environments such as AWS, Azure, and GCP. I have extensive experience in ETL/ELT using Python, PySpark, Pandas, and Numpy. Proficient in both SQL and NoSQL queries, along with expertise in designing efficient storage solutions for datalakes and data warehouses. I create useful visualizations using tools like Tableau, PowerBI, and Looker.
+I'm a data engineer specialized in cloud environments such as AWS, Azure, and GCP. I have experience in ETL/ELT using tools such a Python, PySpark, Pandas or Numpy. Proficient in SQL and NoSQL queries, along with experience in designing efficient storage solutions for datalakes and data warehouses. In addition to creating useful visualizations with tools such as Tableau, PowerBI and Looker.
 
-Committed to continuous learning, I actively engage on GitHub, collaborating on projects and contributing to the development community. My proactive approach and passion for tackling challenges drive me to seek new opportunities that foster my professional growth in the field of data engineering.  
+Committed to continuous learning, I actively participate in my GitHub repositories to keep improving and learning. My proactive approach and passion for meeting challenges drives me to seek out new opportunities that will further my professional growth in the field of data engineering.  
 
 ## Languages and Tools  
 <div align="center">  
