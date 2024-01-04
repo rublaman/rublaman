@@ -10,9 +10,9 @@
 <br/>
 <br/>
 
-I'm a data engineer specialized in cloud environments such as AWS, Azure, and GCP. I have experience in ETL/ELT using tools such a Python, PySpark, Pandas or Numpy. Proficient in SQL and NoSQL queries, along with experience in designing efficient storage solutions for datalakes and data warehouses. In addition to creating useful visualizations with tools such as Tableau, PowerBI and Looker.
+👋 Welcome to my GitHub! I am a data engineer specializing in cloud environments. My experience spans the entire data lifecycle, from extraction from various sources, transformation through streaming and batch pipelines, and ingestion into data lakes and data warehouses for further use. 
 
-Committed to continuous learning, I actively participate in my GitHub repositories to keep improving and learning. My proactive approach and passion for meeting challenges drives me to seek out new opportunities that will further my professional growth in the field of data engineering.  
+I'm constantly immersed in learning and development. This GitHub profile serves as a platform where I create repositories to practice and improve my technical skills. Feel free to explore and connect 😃 - collaboration fuels continuous improvement! 🚀 
 
 ## Languages and Tools  
 <div align="center">  
