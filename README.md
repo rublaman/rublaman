@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-👋 Welcome to my GitHub! I am a data engineer specializing in cloud environments. My experience spans the entire data lifecycle, from extraction from various sources, transformation through streaming and batch pipelines, and ingestion into data lakes and data warehouses for further use. 
+👋 Welcome to my GitHub! I'm a data engineer specializing in cloud environments. My experience spans the entire data lifecycle, from extraction from various sources, transformation through streaming and batch pipelines, and ingestion into data lakes and data warehouses for further use. 
 
 I'm constantly immersed in learning and development. This GitHub profile serves as a platform where I create repositories to practice and improve my technical skills. Feel free to explore and connect 😃 - collaboration fuels continuous improvement! 🚀 
 
