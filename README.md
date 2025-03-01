@@ -26,13 +26,6 @@ This repository serves as both a portfolio and a workspace where I develop solut
 
 I'm open to professional collaborations that push the boundaries of data engineering. If you're working on something innovative in this space, please reach out to discuss potential opportunities. 🤝
 
----
-
-*Thank you for visiting my profile. I look forward to connecting with fellow professionals in the field.* 💼
-
----
-
-*Thank you for visiting my profile. I look forward to connecting with fellow professionals in the field.*
 
 ## Languages and Tools  
 <div align="center">  
@@ -55,4 +48,9 @@ I'm open to professional collaborations that push the boundaries of data enginee
 
   
 
-<br/>  
+<br/>
+
+
+*Thank you for visiting my profile. I look forward to connecting with fellow professionals in the field.* 💼
+
+
