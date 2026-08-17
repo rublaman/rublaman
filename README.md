@@ -1,15 +1,6 @@
 ## Hey 👋, I'm Rubén!  
   
 
-<a href="https://github.com/rublaman" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rublaman" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br/>
-<br/>
-
 Welcome to my GitHub! 👋 
 
 I'm a Data Engineer specializing in cloud environments with extensive experience across banking, energy, and insurance sectors. 
@@ -25,6 +16,10 @@ Throughout my career, I've focused on designing and implementing data infrastruc
 This repository serves as both a portfolio and a workspace where I develop solutions to complex data challenges. The projects here reflect my approach to solving real-world problems I've encountered across different industries.
 
 I'm open to professional collaborations that push the boundaries of data engineering. If you're working on something innovative in this space, please reach out to discuss potential opportunities. 🤝
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rublaman)
 
 
 ## Languages and Tools  
