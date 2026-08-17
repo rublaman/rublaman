@@ -8,8 +8,6 @@ I genuinely enjoy technology: trying out new tools, understanding how they work,
 
 ### Let's connect
 
-If you'd like to talk about data, cloud, or something you're building, feel free to reach out.
-
 <a href="https://www.linkedin.com/in/rublaman" aria-label="View Rubén's LinkedIn profile">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
