@@ -10,7 +10,9 @@ I genuinely enjoy technology: trying out new tools, understanding how they work,
 
 If you'd like to talk about data, cloud, or something you're building, feel free to reach out.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rublaman)
+<a href="https://www.linkedin.com/in/rublaman" aria-label="Rubén on LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
 
 ## Languages and Tools  
 <div align="center">  
