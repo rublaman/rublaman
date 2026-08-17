@@ -1,26 +1,16 @@
-## Hey 👋, I'm Rubén!  
-  
+## Hey, I'm Rubén 👋
 
-Welcome to my GitHub! 👋 
+I'm a data engineer based in Spain. I build cloud data platforms and pipelines for both batch and real-time workloads.
 
-I'm a Data Engineer specializing in cloud environments with extensive experience across banking, energy, and insurance sectors. 
+Most of my work has been in banking, energy, and insurance — industries where reliability, data quality, and maintainability matter just as much as speed.
 
-Throughout my career, I've focused on designing and implementing data infrastructures that balance robustness with scalability, always tailored to meet specific business needs. My work typically spans the entire data lifecycle:
-
-- Comprehensive analysis of diverse data sources 📊
-- Development of efficient extraction and transformation processes 🔄
-- Architecture and deployment of data lakes and warehouses 🗄️
-- Engineering both streaming and batch processing pipelines 📈
-- Performance optimization of data ingestion, processing, and storage systems ⚙️
-
-This repository serves as both a portfolio and a workspace where I develop solutions to complex data challenges. The projects here reflect my approach to solving real-world problems I've encountered across different industries.
-
-I'm open to professional collaborations that push the boundaries of data engineering. If you're working on something innovative in this space, please reach out to discuss potential opportunities. 🤝
+I genuinely enjoy technology: trying out new tools, understanding how they work, and finding where they actually make sense. I use this GitHub to share projects, experiments, and what I learn along the way.
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rublaman)
+If you'd like to talk about data, cloud, or something you're building, feel free to reach out.
 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rublaman)
 
 ## Languages and Tools  
 <div align="center">  
@@ -46,6 +36,6 @@ I'm open to professional collaborations that push the boundaries of data enginee
 <br/>
 
 
-*Thank you for visiting my profile. I look forward to connecting with fellow professionals in the field.* 💼
+*Thanks for stopping by.*
 
 
