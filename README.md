@@ -12,30 +12,38 @@ I genuinely enjoy technology: trying out new tools, understanding how they work,
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
-</td></tr></table>  
+## Technologies
 
-<br/>  
+### Languages
 
-  
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50"></a>
+</div>
 
-<br/>
+### Cloud platforms
 
+<div align="center">
+  <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" height="50"></a>
+  <a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Microsoft Azure" height="50"></a>
+  <a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="50"></a>
+</div>
+
+### Data stores
+
+<div align="center">
+  <a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
+  <a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"></a>
+</div>
+
+### Infrastructure and development tools
+
+<div align="center">
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50"></a>
+  <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"></a>
+  <a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
+</div>
 
 *Thanks for stopping by.*
-
-
