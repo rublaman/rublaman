@@ -4,10 +4,8 @@ I'm a data engineer based in Spain, building reliable cloud data platforms and b
 
 I use GitHub to share practical data engineering projects, experiments, and lessons learned.
 
-### Let's connect
-
-<a href="https://www.linkedin.com/in/rublaman" aria-label="View Rubén's LinkedIn profile">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32">
+<a href="https://www.linkedin.com/in/rublaman" aria-label="Rubén on LinkedIn" title="LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="28" height="28">
 </a>
 
 ## Technologies
