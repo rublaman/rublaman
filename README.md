@@ -1,16 +1,9 @@
-## Hey, I'm Rubén 👋
+# Hey, I'm Rubén 👋
 
-I'm a data engineer based in Spain, building reliable cloud data platforms and batch and real-time pipelines for banking, energy, and insurance.
+I'm a **Data Cloud Architect at Deloitte**, based in Spain.
 
-I use GitHub to share practical data engineering projects, experiments, and lessons learned.
+I like building stuff, trying new things, and figuring out how they work. Most of my interests revolve around data, cloud, and increasingly AI.
 
-<a href="https://www.linkedin.com/in/rublaman" aria-label="Rubén on LinkedIn" title="LinkedIn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="28" height="28">
-</a>
+I use GitHub to share personal projects, experiments, and things I learn along the way.
 
-## Technologies
-
-**Languages:** `Python` · `TypeScript` · `C#` · `PowerShell` · `SQL`<br>
-**Cloud:** `Amazon Web Services` · `Microsoft Azure` · `Google Cloud`<br>
-**Data:** `PySpark` · `Apache Airflow` · `Pandas` · `NumPy` · `MongoDB` · `PostgreSQL`<br>
-**Infrastructure:** `Terraform` · `Docker` · `Git` · `GitHub Actions`
+[LinkedIn](https://www.linkedin.com/in/rublaman)
