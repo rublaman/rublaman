@@ -7,3 +7,4 @@ I like building stuff, trying new things, and figuring out how they work. Most o
 I use GitHub to share personal projects, experiments, and things I learn along the way.
 
 [LinkedIn](https://www.linkedin.com/in/rublaman)
+
